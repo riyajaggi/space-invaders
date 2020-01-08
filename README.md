@@ -56,7 +56,7 @@ Start of the Game
 
 ![ ](start_game_space_invaders.gif =401x360 )
 
-<img src="start_game_invaders.gif" width="401" height="360" title="Start of the Game">
+<img src="https://github.com/riyajaggi/space-invaders/blob/master/start_game_space_invaders.gif" width="401" height="360" title="Start of the Game">
 
 
 
