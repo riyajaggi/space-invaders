@@ -54,9 +54,9 @@ Please do not use the project without asking permission. Using the project means
 
 Start of the Game
 
-![ ](start_game_space_invaders.gif)
+![ ](start_game_space_invaders.gif =401x360 )
 
-
+<img src="start_game_invaders.gif" width="401" height="360" title="Start of the Game">
 
 
 
