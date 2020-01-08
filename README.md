@@ -54,7 +54,7 @@ Please do not use the project without asking permission. Using the project means
 
 Start of the Game
 
-<img src="https://github.com/riyajaggi/space-invaders/blob/master/start_game_space_invaders.gif" width="401" height="360" title="Start of the Game">
+<img src="https://github.com/riyajaggi/space-invaders/blob/master/gifs/start_game_space_invaders.gif" width="401" height="360" title="Start of the Game">
 
 
 
