@@ -46,8 +46,8 @@ Start of the Game
 
 Lost a Life
 
-<img src="https://github.com/riyajaggi/space-invaders/blob/master/gifs/start_game_space_invaders.gif" width="401" height="360" title="Start of the Game">
+<img src="https://github.com/riyajaggi/space-invaders/blob/master/gifs/lost_life.gif" width="401" height="360" title="Start of the Game">
 
 Lost the game
 
-<img src="https://github.com/riyajaggi/space-invaders/blob/master/gifs/start_game_space_invaders.gif" width="401" height="360" title="Start of the Game">
+<img src="https://github.com/riyajaggi/space-invaders/blob/master/gifs/lost_game.gif" width="401" height="360" title="Start of the Game">
