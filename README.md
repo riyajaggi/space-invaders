@@ -21,24 +21,12 @@ This project was created in 2018 by Riya Jaggi for CS 1110: Introduction to Pyth
 <a name="technologies"></a>
 ## Technologies
 
-The code was written and compiled in DevC++ using the C++ programming language. Dev-C++ is a free full-featured integrated development environment distributed under the GNU General Public License for programming in C and C++. 
+The code was written and compiled in Python 3 programming language using Kivy framework. Kivy is free and open-source Python library for developing apps using interactive user interfaces. For more information: https://kivy.org/#home
 
-The 2016 version of DevC++ can be downloaded here: <https://sourceforge.net/projects/orwelldevcpp/>
-
-
-**Header files used:**
-- iostream
-- stdio.h
-- stdlib.h
-- windows.h
-- iomanip
-- time.h
-
+All the images and graphics used in the game were provided by the professor. 
 
 <a name= "files"></a>
 ## Files
-CS_Project_Riya_Jaggi.cpp : source code  
-CS_Project_Riya_Jaggi.exe : executable file that runs using DevC++
 
 The source code is not uploaded to avoid copying or violation of Academic Code of Integrity.
 
@@ -54,7 +42,7 @@ Please do not use the project without asking permission. Using the project means
 
 Start of the Game
 
-<img src="https://github.com/riyajaggi/space-invaders/blob/master/gifs/start_game_space_invaders.gif" width="401" height="360" title="Start of the Game">
+<img src="https://github.com/riyajaggi/space-invaders/blob/master/gifs/start_game_space_invaders.gifs" width="401" height="360" title="Start of the Game">
 
 
 
